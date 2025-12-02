@@ -39,7 +39,7 @@ int main() {
 
     // Exibindo os dados cadastrados
     printf("=============================================\n");
-    printf("=== MAPA DO MUNDO - ESTADO ATUAL ===\n");
+    printf("====== MAPA DO MUNDO - ESTADO ATUAL ======\n");
     printf("=============================================\n");
 
     for (int i = 0; i < 5; i++) {
